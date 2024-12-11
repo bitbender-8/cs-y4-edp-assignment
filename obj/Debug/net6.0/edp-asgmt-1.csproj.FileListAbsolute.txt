@@ -1,0 +1,15 @@
+/mnt/Shared/repos/school/y4/edp-asgmt-1/bin/Debug/net6.0/edp-asgmt-1
+/mnt/Shared/repos/school/y4/edp-asgmt-1/bin/Debug/net6.0/edp-asgmt-1.deps.json
+/mnt/Shared/repos/school/y4/edp-asgmt-1/bin/Debug/net6.0/edp-asgmt-1.runtimeconfig.json
+/mnt/Shared/repos/school/y4/edp-asgmt-1/bin/Debug/net6.0/edp-asgmt-1.dll
+/mnt/Shared/repos/school/y4/edp-asgmt-1/bin/Debug/net6.0/edp-asgmt-1.pdb
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.csproj.AssemblyReference.cache
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.AssemblyInfoInputs.cache
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.AssemblyInfo.cs
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.csproj.CoreCompileInputs.cache
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.dll
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/refint/edp-asgmt-1.dll
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.pdb
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/edp-asgmt-1.genruntimeconfig.cache
+/mnt/Shared/repos/school/y4/edp-asgmt-1/obj/Debug/net6.0/ref/edp-asgmt-1.dll

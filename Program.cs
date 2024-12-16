@@ -37,10 +37,10 @@ class Program
                         break;
                     case ConsoleKey.Q:
                         isRunning = false;
-                        Console.WriteLine("Program stopped");
+                        Console.WriteLine("Program stopped!");
                         break;
                     default:
-                        Console.WriteLine($"Invalid Input{key.ToString()}! Please try again.");
+                        Console.WriteLine($"Invalid Input ({key.ToString()})! Please try again.");
                         break;
                 }
             }
